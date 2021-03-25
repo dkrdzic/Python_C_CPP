@@ -6,7 +6,7 @@ all: compile
 #jako bitno da .so file ima _ na poctku imena
 
 compile:
-	gcc -fpic -c sum.c sum_wrap.c -I/home/syrmia/.pyenv/versions/3.9.2/include/python3.9
+	gcc -fpic -c sum.c sum_wrap.c -I/home/****/.pyenv/versions/3.9.2/include/python3.9
 
 
 
