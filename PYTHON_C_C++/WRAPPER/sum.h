@@ -1,8 +1,6 @@
 #ifndef SUM_H
 #define SUM_H
 
-
-double sum(double,double);
-
+double sum(double, double);
 
 #endif
